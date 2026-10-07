@@ -1,0 +1,17 @@
+{
+  "name": "Cello Flex",
+  "short_name": "Cello Flex",
+  "description": "A fun note-reading game for beginning cello students — learn the notes and finger positions in 1st position.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1620",
+  "theme_color": "#0b1620",
+  "categories": ["education", "games", "music"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
